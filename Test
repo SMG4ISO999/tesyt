@@ -1,0 +1,19 @@
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Test : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        print("Hello my new friend welcome Digital world");
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+using System.Collections;
